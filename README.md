@@ -1,2 +1,2 @@
 # Magma-main
-This is the Magma Website 
+THIS IS MY WEBSITE  
